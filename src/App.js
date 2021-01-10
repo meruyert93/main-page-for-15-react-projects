@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import data from '../src/data';
 import Projects from '../src/projects'
-import projects from '../src/data';
+
 
 function App() {
   return (
@@ -16,11 +16,11 @@ function App() {
       </header>
         <main>
             <section className="section">
-                {/* <h2 className="section-title">
-                    cocktails
-                </h2> */}
+                <h2 className="section-title">
+                    developed by Meruyert Karim
+                </h2>
                 <div className="cocktails-center">
-                    {projects.map((item) => {
+                    {data.map((item) => {
                         return (
                             <Projects key={item.id} {...item}/>
                         )
