@@ -1,6 +1,6 @@
 # Collection of Mini-Projects developed by React.js
 
-This is collection of Mini-project developed by React.js. These projects were heavily focused on functionality. The  main purpose of the building this project was to solidify the skills in React Fundamentals. 
+This is collection of Mini-projects developed by React.js. These projects were heavily focused on functionality. The  main purpose of the building this project was to solidify the skills in React Fundamentals. 
 
 ## Corresponding Project Topics in React listed below: 
 
